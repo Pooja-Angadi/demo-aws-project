@@ -1,6 +1,6 @@
-customhost = "mydatabase.ci4td1u42qon.us-east-1.rds.amazonaws.com"
+customhost = project2.cm5whvlbpeew.ap-south-1.rds.amazonaws.com
 customuser = "admin"
-custompass = "admin123"
-customdb = "mydatabase"
-custombucket = "my-project2-bucket"
-customregion = "us-east-1"
+custompass = "Admin123"
+customdb = "project2"
+custombucket = "proaws2"
+customregion = "ap-south-1"
